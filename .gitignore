@@ -1,0 +1,6 @@
+venv
+.vscode
+with attention/
+without attention/
+decoder.hdf5
+encoder.hdf5
